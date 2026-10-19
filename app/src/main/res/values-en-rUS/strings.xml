@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_screen">Inicio</string>
+    <string name="back_btn_desc">Regresar</string>
+    <string name="app_name">Practica 2.2.1</string>
+    <string name="materia">Despliegue de Aplicaciones Moviles</string>
+    <string name="nombre">Natalia</string>
+    <string name="apellido">Macias Puentes</string>
+    <string name="figura_android">Ilustracion Android</string>
+</resources>
