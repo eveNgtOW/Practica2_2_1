@@ -6,4 +6,5 @@
     <string name="nombre">Natalia</string>
     <string name="apellido">Macias Puentes</string>
     <string name="figura_android">Ilustracion Android</string>
+    <string name="options_menu">Opciones</string>
 </resources>

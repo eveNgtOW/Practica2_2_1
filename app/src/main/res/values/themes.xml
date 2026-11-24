@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Estilo para la pantalla de carga (SplashScreen) -->
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <!-- Color de fondo de la pantalla de carga -->
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <!-- Ícono o animación que se muestra -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <!-- El tema de tu app que se mostrará al finalizar la carga -->
+        <item name="postSplashScreenTheme">@style/Theme.Practica221</item>
+    </style>
 
-    <style name="Theme.Practica221" parent="android:Theme.Material.Light.NoActionBar" />
+    <!-- Tema principal de tu aplicación -->
+    <style name="Theme.Practica221" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personalización opcional de colores de tu app -->
+    </style>
 </resources>
